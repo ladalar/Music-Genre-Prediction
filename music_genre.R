@@ -1,7 +1,3 @@
-## Music Genre Prediction
-## Authors: Fruzsina Ladanyi, Gayeong Kweon
-## CSE 5160 Machine Learning
-## Due Date: 12/13/2023
 ## https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre/
 
 # Packages used
