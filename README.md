@@ -31,16 +31,17 @@ SVM accuracy: 87.14% with 95% CI (0.868, 0.8747).
 
 # Model Comparison
 Compared KNN and SVM accuracy: KNN (84.15%) vs. SVM (87.14%).
-Classification plots and ROC curves visually compare the models.
 
-<p float="left">
-  <img src="Classification1_KNN.jpg" width="400" />
-  <img src="Classification1_SVM.jpg" width="400" />
-</p>
-<p float="left">
-  <img src="Classification2_KNN.jpg" width="400" />
-  <img src="Classification2_SVM.jpg" width="400" />
-</p>
+<table>
+  <tr>
+    <td><img src="Classification1_KNN.jpg" width="400"></td>
+    <td><img src="Classification1_SVM.jpg" width="400"></td>
+  </tr>
+</table>
 
-
-
+<table>
+  <tr>
+    <td><img src="Classification2_KNN.jpg" width="400"></td>
+    <td><img src="Classification2_SVM.jpg" width="400"></td>
+  </tr>
+</table>
