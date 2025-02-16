@@ -18,7 +18,7 @@ Confusion matrix analysis reveals successful classifications.
 One-Vs-All binary classification used for Receiver Operating Characteristic (ROC) curves.
 KNN accuracy: 84.15% with 95% CI (0.8378, 0.8451).
 
-![KNN ROC curves](KNN_ROC.jpg)
+![KNN ROC curves](images/KNN_ROC.jpg)
 
 # Support Vector Machine (SVM)
 Employed SVM algorithm with different C values and 5-fold cross-validation.
@@ -26,8 +26,8 @@ Confusion matrix analysis indicates strong performance.
 One-Vs-All binary classification used for ROC curves.
 SVM accuracy: 87.14% with 95% CI (0.868, 0.8747).
 
-![SVM vs C value](SVM.jpg) 
-![SVM ROC curves](SVM_ROC.jpg)
+![SVM vs C value](images/SVM.jpg) 
+![SVM ROC curves](images/SVM_ROC.jpg)
 
 # Model Comparison
 Compared KNN and SVM accuracy: KNN (84.15%) vs. SVM (87.14%).
