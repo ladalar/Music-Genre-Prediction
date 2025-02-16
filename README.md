@@ -34,14 +34,14 @@ Compared KNN and SVM accuracy: KNN (84.15%) vs. SVM (87.14%).
 
 <table>
   <tr>
-    <td><img src="Classification1_KNN.jpg" width="400"></td>
-    <td><img src="Classification1_SVM.jpg" width="400"></td>
+    <td><img src="images/Classification1_KNN.jpg" width="400"></td>
+    <td><img src="images/Classification1_SVM.jpg" width="400"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="Classification2_KNN.jpg" width="400"></td>
-    <td><img src="Classification2_SVM.jpg" width="400"></td>
+    <td><img src="images/Classification2_KNN.jpg" width="400"></td>
+    <td><img src="images/Classification2_SVM.jpg" width="400"></td>
   </tr>
 </table>
