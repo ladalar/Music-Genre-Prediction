@@ -9,7 +9,7 @@ Utilized a dataset with 18 columns, focusing on 14 predictor variables and 1 res
 Refinement of predictors through feature selection and exclusion of irrelevant columns.
 Removed an empty level ('Hip-Hop') in the response variable for data integrity.
 Calculated eta coefficients for predictors, resulting in a final set of 11 predictors.
-![Eta Coefficients for Predictors](ETA.jpg)
+![Eta Coefficients for Predictors](images/ETA.jpg)
 
 # K Nearest Neighbors (KNN)
 Explored KNN algorithm with 5-fold cross-validation.
